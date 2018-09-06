@@ -26,15 +26,13 @@ Transistors Used in Computers;
 IBM 7000 Series
 The IBM 7000 series was developed throughout the 1950s and early 1960s. 
 They were labeled as computers for “large scale scientific and technological applications.” 
-These 
-Incomputers were much more compatible compared to the IBM 700 series because of their use of transistors. They had higher input/ output speed, using disk and tape. Languages supported by the computers’ operating systems included FORTRAN, COBOL, SORT/MERGE, etc.
+These computers were much more compatible compared to the IBM 700 series because of their use of transistors. They had higher input/ output speed, using disk and tape. Languages supported by the computers’ operating systems included FORTRAN, COBOL, SORT/MERGE, etc.
 
 Other Transistorized Computers; 
 CDC Computers
 Designed by Seymour Cray and others at Control Data Corporation, the CDC 1604 is credited as one of the first successfully transistorized computers. 
 In 1960, the first 1604 was delivered to the US Navy, and by 1964 more than fifty were built. 
-They 
-The used 48-bit words of magnetic core memory, and each 48-bit contained 24-bit instructions.  In 1604, the CDC 3000 series succeeded the 1604. All second generation CDC computers used core memory
+They used 48-bit words of magnetic core memory, and each 48-bit contained 24-bit instructions.  In 1604, the CDC 3000 series succeeded the 1604. All second generation CDC computers used core memory
 
 UNIVAC 1107
 The new UNIVAC series began with UNIVAC 1107 made my Sperry Rand in 1962. 
