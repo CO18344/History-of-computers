@@ -1,7 +1,8 @@
 SECOND GENERATION COMPUTERS
 
 During the period of 1956 to 1963 second generation of computers were developed.
-The second generation computers emerged with development of Transistors. The transistor was invented in 1947 by three scientists J. Bardeen, H.W. Brattain and W. Shockley. 
+The second generation computers emerged with development of Transistors. 
+The transistor was invented in 1947 by three scientists J. Bardeen, H.W. Brattain and W. Shockley. 
 A transistor is a small device made up of semiconductor material like germanium and silicon.
 Even though the Transistor were developed in 1947 but was not widely used until the end of 50s. 
 The transistor made the second generation computers faster, smaller, cheaper, more energy-efficient and more reliable than their first-generation computers.
